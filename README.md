@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Software Testing**
 
-- 📫 How to reach me **ipourdanis@gmail.com**
+- 📫 How to reach me **info@jpourdanis.com**
 
 - 📄 Know about my experiences [https://www.jpourdanis.com/about-me/](https://www.jpourdanis.com/about-me/)
 
