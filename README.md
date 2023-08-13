@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm John Pourdanis</h1>
 <h3 align="center">A Lead Software Engineer In Test from Greece</h3>
 
-- 🔭 I’m currently working on [VMware Tanzu Service Mesh](https://tanzu.vmware.com/service-mesh)
+- 🔭 I’m currently working on [Vimachem - IIoT Pharma 4.0 AI Platform](https://www.vimachem.com/)
 
-- 🌱 I’m currently learning **Kubernetes, Microservices, DevOps Practices**
+- 🌱 I’m currently learning **Quality 4.0, Microservices, DevOps Practices**
 
 - 👯 I’m looking to collaborate on **Corporate Training for Software Testing**
 
