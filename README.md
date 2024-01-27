@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Vimachem - IIoT Pharma 4.0 AI Platform](https://www.vimachem.com/)
 
-- 🌱 I’m currently learning **Quality 4.0, Microservices, DevOps Practices**
+- 🌱 I’m currently learning **Quality 4.0, Microservices, DevOps Practices, Telemetry**
 
 - 👯 I’m looking to collaborate on **Corporate Training for Software Testing**
 
-- 💬 Ask me about **Software Testing**
+- 💬 Ask me about **Software Quality**
 
 - 📫 How to reach me **info@jpourdanis.com**
 
