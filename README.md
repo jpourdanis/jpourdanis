@@ -33,19 +33,19 @@
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Programming</h4>
 <p align="center">
-  <a href="https://www.jpourdanis.com/about-me">
+  <a href="https://www.jpourdanis.com/about-me" target="_blank">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,dotnet,java,nodejs,graphql,angular,py,ts,cs,idea,vscode,visualstudio&perline=3" />
   </a>
 </p>
 <h4 align="left">Testing</h4>
 <p align="center">
-  <a href="https://www.jpourdanis.com/about-me">
+  <a href="https://www.jpourdanis.com/about-me" target="_blank">
     <img src="https://skillicons.dev/icons?i=cypress,gherkin,selenium,jest,postman,vitest&perline=3" />
   </a>
 </p>
 <h4 align="left">Infrastructure</h4>
 <p align="center">
-  <a href="https://www.jpourdanis.com/about-me">
+  <a href="https://www.jpourdanis.com/about-me" target="_blank">
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,github,gitlab,jenkins,grafana,mongodb,mysql,postgres,sqlite&perline=3" />
   </a>
 </p>
